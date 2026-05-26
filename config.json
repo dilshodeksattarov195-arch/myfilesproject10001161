@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustersecrypt",
+        "uuid": 4104135,
+        "checksum": "lqh79e"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
